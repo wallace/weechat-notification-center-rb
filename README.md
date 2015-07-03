@@ -5,7 +5,7 @@ Installation
 
 Weechat must be built with the ruby option enabled.  If using homebrew
 
-    $ brew install weechat --ruby
+    $ brew install weechat --with-ruby
     
 Then, make sure to use *system ruby*
 
